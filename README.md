@@ -1,1 +1,1 @@
-It's a java simulation for our scheme in the standard model
+We have uploaded the simulation experiments of our CLS scheme, as well as all the detailed processes discussed in the paper, in the accompanying PDF file. Researchers interested in further exploring these aspects are welcome to refer to the document.
